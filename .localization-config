@@ -2,7 +2,7 @@
 {
   "locales": ["de-de", "zh-cn", "ja-jp", "pl-pl"], 
   "files": ["!/*.md", "**/**/*.md", "**/*.md", "**/TOC*.yml"],
-  "includeDependencies": true,
   "autoPush": true,
+  "includeDependencies": true,
   "xliffVersion": "2.0"
 }
